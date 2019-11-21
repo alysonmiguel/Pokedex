@@ -1,0 +1,59 @@
+
+.btn-primary, .Normal, .Lutador, .Voador, .Veneno, .Solo, .Pedra, .Inseto, .Fantasma, .Aco, .Fogo, .Agua, .Grama, .Eletrico, .Psiquico, .Gelo, .Dragao, .Sombrio, .Fada, .Desconhecido{
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #fff;
+}
+
+.img-div{
+    background-color: rgb(245, 245, 245);
+    border-color: #000;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.container{
+    min-width: 400px;
+    width: 40%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(214, 3, 3);
+    padding: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 14px;
+}
+
+.mw{
+    max-width: 350px;
+}
+.img-div {
+    border: 0;
+    border-radius: 10px;
+}
+
+p {
+    margin: .3rem;
+}
+
+.Normal { background-color: #A8A878; }
+.Lutador { background-color: #C03028; }
+.Voador { background-color: #A890F0; }
+.Veneno { background-color: #A040A0; }
+.Solo { background-color: #E0C068; }
+.Pedra { background-color: #B8A038; }
+.Inseto { background-color: #A8B820; }
+.Fantasma { background-color: #705898; }
+.Aco { background-color: #B8B8D0; }
+.Fogo { background-color: #F08030; }
+.Agua { background-color: #6890F0; }
+.Grama { background-color: #78C850; }
+.Eletrico { background-color: #F8D030; }
+.Psiquico { background-color: #F85888; }
+.Gelo { background-color: #98D8D8; }
+.Dragao { background-color: #7038F8; }
+.Sombrio { background-color: #705848; }
+.Fada { background-color: #EE99AC; }
+.Desconhecido { background-color: rgba(1,1,1,0);}
+
